@@ -1,0 +1,24 @@
+.item-card {
+
+  padding: 10px;
+  text-align: center;
+  
+  
+}
+
+
+.item-card h3 {
+  margin: 10px 0;
+}
+
+.item-card:hover {
+  background-color: pink
+
+}
+
+.favorite-icon{
+  margin-left: 300;
+}
+
+
+

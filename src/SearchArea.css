@@ -1,0 +1,18 @@
+.searching-area {
+    background-color: #333;
+    text-align: center;
+    padding: 20px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  .searching-area input {
+    padding: 8px;
+    margin-right: 8px;
+    width: 80%;
+  }
+  
+  .searching-area button {
+    padding: 8px 16px;
+    cursor: pointer;
+  }

@@ -1,0 +1,30 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .main-heading {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .main-heading h2 {
+    margin-bottom: 10px;
+  }
+  
+  
+  .available-items-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+    padding: 20px;
+  }
